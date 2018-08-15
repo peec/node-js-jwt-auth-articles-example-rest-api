@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/routes/index.js"],"names":["router"],"mappings":";;;;;;AAAA;;;;;;kBAEe,UAACA,MAAD,EAAY;AACvB,2BAAQA,MAAR;AACH,C","file":"index.js","sourcesContent":["import article from './article';\n\nexport default (router) => {\n    article(router);\n};\n"]}
